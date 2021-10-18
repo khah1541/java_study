@@ -1,0 +1,10 @@
+package method;
+
+public class ProgrammingGrades {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
